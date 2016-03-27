@@ -9,10 +9,7 @@ using namespace std;
 
 int main()
 {
-	int n,l,f,k;
-	int trans[1001];
-	p a[1001];
-	memset(trans,0,sizeof(trans));
+	
 	while(scanf("%d",&n)!=EOF)
 	{
 		k=0;
